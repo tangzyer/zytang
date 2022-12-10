@@ -12,7 +12,13 @@ I am an undergraduate at Tsinghua University with research interest in statistic
 
 Working Paper
 ======
+**On the On the Exploration in Load-Balancing with Unknown Service Rates**  
+Yifei Huang, Zhiyuan Tang, Weina Wang (alphabetical order)  
+Submitted to ACM SIGMETRICS 2023
 
+**Classification with Set-Valued Labels**
+with Ganghua Wang and Jie Ding  
+In progress
 
 Miscellaneous
 ======
