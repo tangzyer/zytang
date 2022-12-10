@@ -22,7 +22,7 @@ In progress.
 
 Miscellaneous
 ======
-I enjoy listening to music, singing and dancing in my free time. I am a member of Tsinghua Students Choir and my part is alto. I like to watch movies and TV plays too. I am a fan of the Netflix series *the Stranger Things* since high school.
+I enjoy music, choral arts and jazz dance in my free time. I am a member of Tsinghua Students Choir and my part is alto. I like to watch movies and TV plays too. I am a fan of the Netflix series *the Stranger Things* since high school.
 
 My profile photo is taken by my friend [Shawn](https://www.linkedin.com/in/zeshengfu/).
 
