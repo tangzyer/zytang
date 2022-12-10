@@ -14,11 +14,11 @@ Working Paper
 ======
 **On the Exploration in Load-Balancing with Unknown Service Rates**  
 Yifei Huang, Zhiyuan Tang, Weina Wang (alphabetical order)  
-Submitted to ACM SIGMETRICS 2023
+Submitted to ACM SIGMETRICS 2023.
 
 **Classification with Set-Valued Labels**  
 with Ganghua Wang and Jie Ding  
-In progress
+In progress.
 
 Miscellaneous
 ======
