@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate at Tsinghua University with research interest in statistical machine learning, online learning and sequential decision making. I am extremenly lucky to be supervised by [Prof. Jie Ding](jding.org) and [Prof. Weina Wang](http://www.cs.cmu.edu/~weinaw/) during my undergraduate study.
+I am an undergraduate at Tsinghua University with research interest in statistical machine learning, online learning and sequential decision making. I am extremenly lucky to be supervised by [Prof. Jie Ding](http://jding.org) and [Prof. Weina Wang](http://www.cs.cmu.edu/~weinaw/) during my undergraduate study.
 
 Working Paper
 ======
