@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Operations Management at Naveen Jindal School of Management, the University of Texas at Dallas. I am broadly interested in topics related to stochastic systems, sequential decision-making, online learning and statistical learning. 
+I am a first-year PhD student in Operations Management at Naveen Jindal School of Management, the University of Texas at Dallas. I am broadly interested in topics related to stochastic systems, sequential decision-making, online learning and statistical learning.   
+
+
+
 
 Working Paper
 ======
